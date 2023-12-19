@@ -12,7 +12,7 @@
 -SEC : SEC4
 -Username Github : phakkharaphong
 
-![รูปภาพของผู้เขียน](./jutathip/.jpg)
+![รูปภาพของผู้เขียน](./media/jutathip.jpg)
 -ชื่อ-นามสกุล  : จุฑาทิพย์ ศรีชมภู
 -รหัสนักศึกษา  : 643020601-2
 -SEC : SEC4
