@@ -6,11 +6,11 @@
 -SEC : SEC4
 -Username Github : ratthamonti
 
-![รูปภาพของผู้เขียน](./media/.jpg)
--ชื่อ-นามสกุล  : 
--รหัสนักศึกษา  : 
+![รูปภาพของผู้เขียน](./media/nuy.jpg)
+-ชื่อ-นามสกุล  : ภัครพงศ์ เจริญผล 
+-รหัสนักศึกษา  : 643020632-1
 -SEC : SEC4
--Username Github : 
+-Username Github : phakkharaphong
 
 ![รูปภาพของผู้เขียน](./media/.jpg)
 -ชื่อ-นามสกุล  : 
