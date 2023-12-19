@@ -12,11 +12,11 @@
 -SEC : SEC4
 -Username Github : phakkharaphong
 
-![รูปภาพของผู้เขียน](./media/.jpg)
--ชื่อ-นามสกุล  : 
--รหัสนักศึกษา  : 
+![รูปภาพของผู้เขียน](./jutathip/.jpg)
+-ชื่อ-นามสกุล  : จุฑาทิพย์ ศรีชมภู
+-รหัสนักศึกษา  : 643020601-2
 -SEC : SEC4
--Username Github : 
+-Username Github : JutathipPraw
 
 ![รูปภาพของผู้เขียน](./media/.jpg)
 -ชื่อ-นามสกุล  : 
