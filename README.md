@@ -30,11 +30,11 @@
 <br>- SEC : SEC4
 <br>- Username Github : 
 
-![รูปภาพของผู้เขียน](./media/.jpg)
-<br>- ชื่อ-นามสกุล  : 
-<br>- รหัสนักศึกษา  : 
+![รูปภาพของผู้เขียน](./media/sasikarn.jpg)
+<br>- ชื่อ-นามสกุล  : ศศิการต์ ภวะวิจารณ์
+<br>- รหัสนักศึกษา  : 643021338-6
 <br>- SEC : SEC4
-<br>- Username Github : 
+<br>- Username Github : sasikarnpa
 
 ![รูปภาพของผู้เขียน](./media/.jpg)
 <br>- ชื่อ-นามสกุล  : 
