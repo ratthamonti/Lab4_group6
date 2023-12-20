@@ -36,8 +36,8 @@
 <br>- SEC : SEC4
 <br>- Username Github : sasikarnpa
 
-![รูปภาพของผู้เขียน](./media/.jpg)
-<br>- ชื่อ-นามสกุล  : 
-<br>- รหัสนักศึกษา  : 
+![รูปภาพของผู้เขียน](./media/siriphob.jpg)
+<br>- ชื่อ-นามสกุล  : สิรภพ วรวัตร
+<br>- รหัสนักศึกษา  : 643020648-6
 <br>- SEC : SEC4
-<br>- Username Github : 
+<br>- Username Github : Spworx
