@@ -24,11 +24,11 @@
 <br>- SEC : SEC4
 <br>- Username Github : Thayakorn 
 
-![รูปภาพของผู้เขียน](./media/.jpg)
-<br>- ชื่อ-นามสกุล  : 
-<br>- รหัสนักศึกษา  : 
+![รูปภาพของผู้เขียน](./media/night.jpg)
+<br>- ชื่อ-นามสกุล  : วริศรา พันธุ์รอด
+<br>- รหัสนักศึกษา  : 643020642-8
 <br>- SEC : SEC4
-<br>- Username Github : 
+<br>- Username Github : nightwrpr
 
 ![รูปภาพของผู้เขียน](./media/sasikarn.jpg)
 <br>- ชื่อ-นามสกุล  : ศศิการต์ ภวะวิจารณ์
