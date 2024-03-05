@@ -53,6 +53,7 @@ https://miro.com/app/board/uXjVNz_ebZ0=/?fbclid=IwAR2G2k8yX3UW0YD-nBBrbh2O7IgE0k
 <br>- SEC : SEC4
 <br>- Username Github : sasikarnpa
 
+คนนี้ไม่มาเรียน
 ![รูปภาพของผู้เขียน](./media/siriphob.jpg)
 <br>- ชื่อ-นามสกุล  : สิรภพ วรวัตร
 <br>- รหัสนักศึกษา  : 643020648-6
